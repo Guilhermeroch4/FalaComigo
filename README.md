@@ -1,2 +1,0 @@
-# FalaComigo
-Created with CodeSandbox
